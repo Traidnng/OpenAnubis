@@ -2,8 +2,6 @@
 
 
 # Only Open Anubis
-# OpenAnubis - Open Source & Security Review Report
-
 **Runtime Target:** JDK 21  
 **Minecraft / Mod Loader:** Minecraft 1.21.11 • Fabric Loader  
 **Tooling:** CFR 0.152 Java Decompiler • Custom Resource Extractor  
