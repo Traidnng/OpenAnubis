@@ -1,4 +1,4 @@
-<img width="439" height="387" alt="image (9)" src="https://github.com/user-attachments/assets/3be940e5-c846-4c41-85ba-64a92f17efea" />
+<img width="439" height="387" alt="image (9)" src="https://github.com/user-attachments/assets/3be940e5-c846-4c41-85ba-64a92f17efea" /> <img width="439" height="387" alt="image" src="https://github.com/user-attachments/assets/cfa74081-2a32-4fff-9f25-68583a3aac4e" />
 
 
 # Only Open Anubis
@@ -96,6 +96,3 @@ The original client contains an integrity verification routine in `net.anubis.cl
 ## legal
 
 Anubis Client is an independent community project and is not an official Minecraft product. Minecraft is a trademark of Mojang Studios and Microsoft Corporation. Third-party libraries (Dear ImGui, Fabric API, Gson) retain their respective licenses.
-
-
-<img width="439" height="387" alt="image" src="https://github.com/user-attachments/assets/cfa74081-2a32-4fff-9f25-68583a3aac4e" />
